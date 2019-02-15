@@ -1,0 +1,19 @@
+bookID,ISBN,bookName,publishYear,Author,CallNumber,tot_available,category
+B12,978-0-444-53681-5,eBook - Physics and Astronomy 2012,2012,Nickolas,1875-4023,2,P
+B13,978-1-933762-05-0,eBook - Energy 2012 (Elsevier and Woodhead),2012,Gary,1874-6004,0,E
+B14,978-1-933762-41-8,eBook - Biomedical Science and Medicine 2012 (Elsevier and Woodhead),2013,Diane,1569-4860,3,B
+B15,978-0-12-385183-3,eBook - Computer Science 2012,2012,Roslyn,0950-1401,1,C
+B16,978-0-12-391934-2,eBook - Biology 2011,2013,Glory,0074-6142,3,B
+B17,978-1-59749-740-4,eBook - Engineering 2012 (Elsevier and Woodhead),2013,Rasheeda,0072-9752,3,E
+B18,978-0-12-405519-3,eBook - Psychology 2012,2013,Alpha,1567-8032,0,P
+B19,978-0-08-097097-4,eBook - Chemistry 2012,2013,Refugia,1470-1804,0,C
+B20,978-0-12-382178-2,eBook - Earth and Planetary Sciences 2012,2013,Shawnda,1570-7946,0,E
+B21,978-1-4377-3459-1,eBook - History 3,2013,Mona,1873-0450,3,H
+B22,978-1-4557-2550-2,eBook - Computer Science 2012,2012,Gilma,0167-8892,4,C
+B23,978-1-4557-2597-7,eBook - Environmental Science 2012,2014,Janey,0072-9752,0,E
+B24,978-0-08-044860-2,"eBook - Agricultural, Biological, and Food Sciences 2012 (Elsevier and Woodhead)",2012,Lili,0072-9753,0,A
+B25,978-0-12-397160-9,eBook - Finance 2012,2013,Loren,0959-6380,3,F
+B26,978-0-444-56356-9,eBook - Materials Science 2012 (Elsevier and Woodhead),2012,Dorothy,1872-0854,0,M
+B27,978-0-08-097239-8,eBook - Computer Science 3,2013,Gail,1474-8177,2,C
+B28,978-0-12-386537-3,"eBook - Agricultural, Biological, and Food Sciences 2012 (Elsevier and Woodhead)",2013,Roosevelt,1571-0866,0,A
+,,,,,,,

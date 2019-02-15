@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        form {
+            border: 3px solid #f1f1f1;
+            background-color:white;
+            width: 50%;
+            margin:auto;
+        }
+    
+    input[type=text], input[type=password] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
+    
+    button:hover {
+        opacity: 0.8;
+    }
+    
+
+    
+    .imgcontainer {
+        text-align: center;
+        margin: 24px 0 12px 0;
+    }
+    
+    img.user_img {
+        width: 20%;
+        border-radius: 50%;
+    }
+    
+    .container {
+        padding: 16px;
+    }
+    
+    
+    
+    
+    </style>
+    <body background="./11.jpg">
+        
+        <h2><center>SIGN IN</center></h2>
+        
+        <form action="Access1.php" method="POST">
+            <div class="imgcontainer">
+                <img src="./user.png" alt="user_icon" class="user_img">
+            </div>
+            <div class="container">
+            	<fieldset>
+                <input type="radio" name="check" value="student"/>Student
+                <input type="radio" name="check" value="teacher" />Teacher
+                <input type="radio" name="check" value="admin" />Admin
+           		 </fieldset>
+                <label><b>Username</b></label>
+                <input type="text" placeholder="Enter Username" name="userID" required>
+                    
+                    <label><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="password" required>
+                        
+                        <button type="submit">Login</button>
+                        <input type="checkbox" checked="checked"> Remember me
+                            </div>
+            
+            
+        </form>
+        
+    </body>
+</html>
